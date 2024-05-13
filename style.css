@@ -307,7 +307,7 @@ h1 span{
 
 /* contact_page_start */ 
 .contact_section{
-    padding: 100px 0;
+    padding: 50px 0 100px;
 }
 .contact_section .container{
     max-width: 600px;
